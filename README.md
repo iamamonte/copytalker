@@ -1,6 +1,6 @@
 # Copytalker API
 # Introduction
-The Copytalker API is a javascript web component built for a company called Copytalk. Copytalk is a mobile dictation service specializing in producing transcripts for the financial services industry. This API allows for any web based platform to host the Copytalk service, which previously could only be accessed over the phone or via mobile app.
+The Copytalker API is a javascript web component built for a company called Copytalk [website] (https://www.copytalk.com/). Copytalk is a mobile dictation service specializing in producing transcripts for the financial services industry. This API allows for any web based platform to host the Copytalk service, which previously could only be accessed over the phone or via mobile app.
 
 A variety of companies utilize this API to embed the Copytalk service within their platform including companies such as Redtail CRM.
 
